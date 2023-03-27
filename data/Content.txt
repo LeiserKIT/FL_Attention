@@ -1,0 +1,2 @@
+CheXpert: image data
+test/train: .csv files used as basis for data loading in all analyzed scenarios

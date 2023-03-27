@@ -1,0 +1,2 @@
+This folder holds CheXpert data available in public download.
+Additonally: BBoxes.json - from code implementation of Ouyang et al.: https://github.com/oyxhust/HAM (datasets --> CheXpert --> Annotations --> BBoxes.json)

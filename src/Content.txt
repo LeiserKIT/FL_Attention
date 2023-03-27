@@ -1,0 +1,6 @@
+preprocessing.ipynb: Notebook guiding through all preprocessing steps including data splits for federated training
+federated_learning.py & fl_utils.py: Source code for federated training
+centralized_learning.py: Source code for central learning
+cl.sh & fl.sh: Example shell scripts used to schedule batch jobs (slurm)
+eval.csv: .csv-file to construct dataframe with results from all experiments
+logs: Imitates folder structure applied to log experimental results. Folders are empty due to data size. EXAMPLE LOGS folder contains sample model output. Model ouptut includes figures generated in testing, test metrics as .csv, testing ROC curve as png, tfevents file for displaying test summary and visualizations in tensorboard.
